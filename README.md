@@ -28,10 +28,10 @@ Foi utilizado o design pattern state para gerenciar o estado do aluguel de: em a
 
 ###### English
 
-#Design Patterns
+# Design Patterns
 
-* Activity performed for the Systems Analysis and Development discipline. Where it was proposed:
-Create a scenario and implement 3 design patterns studied in the room. The work can be paired and only one member of the pair should submit: Link to the project containing github commit source code. NOTE: There should be a readme.md file with a brief explanation of which design patterns were implemented and why they were useful in the chosen scenario. Hint: You can see that you committed what there on github.
+### Activity performed for the Systems Analysis and Development discipline. Where it was proposed:
+* Create a scenario and implement 3 design patterns studied in the room. The work can be paired and only one member of the pair should submit: Link to the project containing github commit source code. NOTE: There should be a readme.md file with a brief explanation of which design patterns were implemented and why they were useful in the chosen scenario. Hint: You can see that you committed what there on github.
 
 * The project created was the car rental where the default designs were used: Factory, State and Builder.
 
