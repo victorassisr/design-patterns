@@ -1,3 +1,7 @@
+View in: [Portuguese](https://github.com/victorassisr/design-patterns#Portugues) or [English](https://github.com/victorassisr/design-patterns#English)
+
+###### Portuguese
+
 # Design Patterns
 
 ### Atividade realizada para a disciplina de Análise e Desenvolvimento de Sistemas. Onde foi proposto:
@@ -20,3 +24,6 @@ Foi utilizado o design pattern buider para facilitar a instanciação de objetos
 State
 ```
 Foi utilizado o design pattern state para gerenciar o estado do aluguel de: em andamento ou finalizado, onde consequentemente altera o comportamento de realizar o calculo de valor total do aluguel baseado nos dias do aluguel.
+
+
+###### English
