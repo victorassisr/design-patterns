@@ -27,3 +27,18 @@ Foi utilizado o design pattern state para gerenciar o estado do aluguel de: em a
 
 
 ###### English
+
+Design Patterns
+Activity performed for the Systems Analysis and Development discipline. Where it was proposed:
+Create a scenario and implement 3 design patterns studied in the room. The work can be paired and only one member of the pair should submit: Link to the project containing github commit source code. NOTE: There should be a readme.md file with a brief explanation of which design patterns were implemented and why they were useful in the chosen scenario. Hint: You can see that you committed what there on github.
+
+The project created was the car rental where the default designs were used: Factory, State and Builder.
+
+Factory
+The design pattern factory was used to decrease system coupling. Where only the factory knows the cars to be instantiated and returns the correct instance to the orderer.
+
+Builder
+Design pattern buider was used to facilitate the instantiation of optional objects so as not to have to pass everything by parameter, where this would make it difficult to maintain the code.
+
+State
+The design pattern state was used to manage the rent status of: in progress or finalized, which consequently alters the behavior of calculating the total rent value based on the days of the rent.
